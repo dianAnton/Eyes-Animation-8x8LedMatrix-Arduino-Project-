@@ -37,8 +37,8 @@ Diagram:
 
 To connect the Matrix and the Arduino Uno, Follow this table:
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | Column 11 | Column 12 | Column 13 | Column 14 | Column 15 | Column 16 |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| MATRIX| 13 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | Column 11 | Column 12 | Column 13 | Column 14 | Column 15 | Column 16 |
+| ARDUINO |2|----------|----------|----------|----------|----------|----------|----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |          |          |          |          |          |          |          |          |          |           |           |           |           |           |           |           |
 |          |          |          |          |          |          |          |          |          |           |           |           |           |           |           |           |
 
