@@ -8,18 +8,27 @@ This Eye animation is made in an 8x8 Red Light LED Matrix and an Arduino UNO.
 - [Features](#features)
 - [Materials](#materials)
 - [Circuit Diagram](#circuit-diagram)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
-Provide a brief introduction to your project. Explain what it does and what motivated you to create it.
+This project serves as a practical demonstration of a short, realistic eye animation within an 8x8 LED matrix.
 
 ## Features
 
-Highlight the key features of your project. For example:
 - Eye animation on an 8x8 Red Light LED Matrix.
 - Arduino UNO powered.
 - Common Cathode LED Matrix.
+
+## Materials
+
+- Arduino UNO
+- 8X8 Red Light LED Matrix (Common Cathode)
+- Breadboard
+- Jumper Wires
+
+## Circuit Diagram
+
+Diagram
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
