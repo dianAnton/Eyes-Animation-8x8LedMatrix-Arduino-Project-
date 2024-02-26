@@ -1,4 +1,8 @@
-# Eye Animation 8x8LedMatrix-Arduino-Project
-Arduino Project. Short Eye animation with an 8x8 Red Led Matrix
+# Eye Animation - Arduino Project
+
+This Eye animation is made in an 8x8 Red Light LED Matrix and an Arduino UNO.
 
 
+## Table of Contents
+
+..* Introduction
