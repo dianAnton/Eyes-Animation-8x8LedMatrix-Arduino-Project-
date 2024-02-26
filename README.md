@@ -29,6 +29,8 @@ This project serves as a practical demonstration of a short, realistic eye anima
 
 ## Circuit Diagram
 
-Diagram
+Diagram:
+
+
 ![alt text](Diagram.png)
 
